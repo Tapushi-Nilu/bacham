@@ -3,6 +3,30 @@ Small devices (portrait phones,less then 576px)
 */
 
 @media (max-width: 575.98px) {
+  .benner-text h1 {
+    font-size: 50px;
+    margin-top: 0px;
+  }
+  .bold-text {
+    top: 18px;
+    left: 21px;
+    font-size: 80px;
+  }
+  .inner-text h4 {
+    margin-left: 0px;
+  }
+  .inner-text .details {
+    padding: 44px 5px 0px 10px;
+  }
+  .resume {
+    margin-left: 0px;
+  }
+  .contactme {
+    margin-left: 0px;
+  }
+  .contact-details {
+    margin-left: 0px;
+  }
 }
 /* 
 Small devices (landscape phones, 576px and up)
