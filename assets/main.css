@@ -27,6 +27,18 @@ Small devices (portrait phones,less then 576px)
   .contact-details {
     margin-left: 0px;
   }
+  .about-section {
+    padding: 0px;
+  }
+  .service-details p {
+    padding: 10px 5px 66px 5px;
+  }
+  .service-section {
+    padding: 40px 0px;
+  }
+  .portfolio-img img {
+    padding: 10px;
+  }
 }
 /* 
 Small devices (landscape phones, 576px and up)
